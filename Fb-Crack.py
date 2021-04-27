@@ -94,7 +94,7 @@ WARNING:- HACKING IS A CRIME AND I'M A CRIMINAL
 WARNING:- DON'T ASK  ANYONE TO HACK JUST HACK IT
 WARNING:- USE FAST INTERNET CONNECTION
 WARNING:- USE ANY FAST PROXY
-◈ ━━━━━━━━━━━━ ⸙ - ⸙ ━━━━━━━━━━━━ ◈                     
+◈ ━━━━━━━━━━━━ ⸙ - ⸙ ━━━━━━━━━━━ ◈                     
 \033[1;97m\x1b[1;96m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91m\x1b[1;91mAuthor : Nadeem
                     
